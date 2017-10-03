@@ -8,7 +8,10 @@ repositories{
 dependencies{
     compile("org.springframework.boot:spring-boot-starter-web")
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 97a5de2... Add TimeEntry MVC in memory
     compile("com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.9.1")
 
 >>>>>>> 97a5de2... Add TimeEntry MVC in memory
