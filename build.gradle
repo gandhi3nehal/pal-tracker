@@ -14,10 +14,6 @@ jar{
         attributes("Main-Class":"io.pivotal.pal.tracker.PalTrackerApplication")
     }
 }
-bootRun.environment([
-        "WELCOME_MESSAGE": "hello",
-
-])
 test.environment([
         "WELCOME_MESSAGE": "Hello from test",
 
